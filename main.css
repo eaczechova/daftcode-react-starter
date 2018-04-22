@@ -1,0 +1,48 @@
+.welcome {
+  color: #0f0f0f;
+  font-size: 3rem;
+  text-align: center;
+  -webkit-transform: rotate(-5deg);
+          transform: rotate(-5deg); }
+  .welcome .username {
+    font-weight: normal; }
+
+html {
+  font-size: 20px; }
+
+body {
+  margin: 0; }
+
+#root {
+  margin: 3rem auto;
+  width: 200px;
+  height: 200px;
+  background-color: #F48FB1;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  text-align: center;
+  border-radius: 5px; }
+
+button {
+  margin-top: 15px;
+  width: 100px;
+  padding: 5% 10%;
+  border-radius: 5px;
+  border: none; }
+
+input {
+  margin-top: 15px; }
+
+
+/*# sourceMappingURL=main.css.map*/
